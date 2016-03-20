@@ -4,8 +4,15 @@
         <description><![CDATA[churchnow]]></description>
         <link>https://thegrid.ai/churchnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 18:56:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 18:56:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/churchnow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.dailydetroit.com/wp-content/uploads/2015/09/mercury-burger-bar-640x360.jpg">]]></description>
+            <link>https://thegrid.ai/churchnow/285dba5c-ed4e-4a15-92a1-2dd0c2f750c1/index.html</link>
+            <guid isPermaLink="false">285dba5c-ed4e-4a15-92a1-2dd0c2f750c1</guid>
+            <pubDate>Sun, 20 Mar 2016 18:55:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://api.ning.com/files/QSAjpdZCfl1HqsQnP5USUmPc0s48l-hPq3A523wLA*Zfsgs7uNdJcUZ8fZcFgj*i-idFrKlM2dzOK8SKyTw*tH-XFZsGvpE4/Image1.jpg?width=750">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Smart Math of Mixed-Use Development</h1><p>Are cities across the country acting negligently in ignoring the property tax implications of different development types? Joseph Minicozzi thinks so, and he's done the math to prove it. The wisdom of man never yet contrived a system of taxation that would operate with perfect equality. -- Andrew Jackson</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/942bf4abdac3cbf9d016a0982ea0f456019b8abb.jpg"></article>]]></description>
             <link>http://www.planetizen.com/node/53922</link>
             <guid isPermaLink="false">96883edc-a6e3-4f3f-b0e5-1a1449e498d6</guid>
-            <pubDate>Sun, 20 Mar 2016 18:39:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#sxsw @brehmcenter 2016 installation]]></title>
-            <description><![CDATA[<article><h1>#sxsw @brehmcenter 2016 installation</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d217523fa0aea39b4fa65ea60e613b8c29af8770.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/BC-V68PuVx1/</link>
-            <guid isPermaLink="false">1f95990d-9a93-48c6-b2e9-9b07865cc92c</guid>
             <pubDate>Sun, 20 Mar 2016 18:39:17 GMT</pubDate>
         </item>
     </channel>
