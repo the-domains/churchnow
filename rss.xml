@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[churchnow]]></title>
+        <description><![CDATA[churchnow]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Mar 2016 18:35:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TED-Evangelism Harkens Back to a Forgotten 19th-Century Tradition]]></title>
+            <description><![CDATA[<article><h1>TED-Evangelism Harkens Back to a Forgotten 19th-Century Tradition</h1><p>The top ten most watched TED talks are, in order, about: Creativity Confidence Motivation Vulnerability The Brain Really Cool Technology Orgasm Motivation Motivation Really Cool Science But actually the top ten TED talks are all about you. They're about the way that ideas can transform your life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acd265c4946ef523e558d2dabe879d395496b682.jpg"></article>]]></description>
+            <link>http://religiondispatches.org/ted-evangelism-harkens-back-to-a-forgotten-19th-century-tradition/</link>
+            <guid isPermaLink="false">61273c8d-3870-48c4-84d4-149821f35e21</guid>
+            <pubDate>Sun, 20 Mar 2016 18:35:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
