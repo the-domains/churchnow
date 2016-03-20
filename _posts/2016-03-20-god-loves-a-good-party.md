@@ -1,20 +1,10 @@
 ---
-author:
-  - name: Karen Wilk
-    url: 'http://journalofmissionalpractice.com/author/karen-wilk/'
-    avatar: {}
-  - name: Angie Allgood and Sally Mann
-    url: 'http://journalofmissionalpractice.com/author/angie-allgood-and-sally-mann/'
-    avatar: {}
-  - name: Dean Phelan
-    url: 'http://journalofmissionalpractice.com/author/dean-phelan/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://journalofmissionalpractice.com'
-  name: Journalofmissionalpractice
-  favicon: 'http://journalofmissionalpractice.com/favicon.ico'
-  domain: journalofmissionalpractice.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://journalofmissionalpractice.com/god-loves-a-good-party/'
+inLanguage: en
+starred: false
 keywords:
   - neighbours
   - god
@@ -27,19 +17,33 @@ keywords:
   - luke
   - matthew
 description: 'We were becoming convinced that a missional God who attends to us in person and in place was calling and empowering us to do the same. What might it look like for us to live among our neighbours as neighbours, community stakeholders alongside them.'
-inLanguage: en
+datePublished: '2016-03-20T18:49:21.618Z'
+dateModified: '2016-03-20T18:49:16.234Z'
+author:
+  - name: Karen Wilk
+    url: 'http://journalofmissionalpractice.com/author/karen-wilk/'
+    avatar: {}
+  - name: Angie Allgood and Sally Mann
+    url: 'http://journalofmissionalpractice.com/author/angie-allgood-and-sally-mann/'
+    avatar: {}
+  - name: Dean Phelan
+    url: 'http://journalofmissionalpractice.com/author/dean-phelan/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://journalofmissionalpractice.com/god-loves-a-good-party/'
 title: God Loves a Good Party
-datePublished: '2016-03-20T18:39:17.184Z'
-dateModified: '2016-03-20T18:38:55.366Z'
 sourcePath: _posts/2016-03-20-god-loves-a-good-party.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Journalofmissionalpractice
+  domain: journalofmissionalpractice.com
+  url: 'http://journalofmissionalpractice.com'
+  favicon: 'http://journalofmissionalpractice.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
 <article style=""><h1>God Loves a Good Party</h1><p>We were becoming convinced that a missional God who attends to us in person and in place was calling and empowering us to do the same. What might it look like for us to live among our neighbours as neighbours, community stakeholders alongside them.</p><img src="http://journalofmissionalpractice.com/wp/wp-content/uploads/wordpress-popular-posts/175-80x60.jpg" /></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/315fbf54-f2ce-4ccd-a591-1a62184c57bb.png)
