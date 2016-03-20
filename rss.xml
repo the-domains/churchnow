@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[churchnow]]></title>
         <description><![CDATA[churchnow]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/churchnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 18:35:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 18:35:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/churchnow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How We Gather - A New Report On Non-Religious Community]]></title>
+            <description><![CDATA[<article><h1>How We Gather - A New Report On Non-Religious Community</h1><p>My colleague Angie Thurston from the Harvard Divinity School and I published a report this week about the nature of millennial non-religious communities. Have a read! How We Gather</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa072c87ded06a0118fc5afe2574ca6cb02ffae5.png"></article>]]></description>
+            <link>https://caspertk.wordpress.com/2015/04/18/how-we-gather-a-new-report-on-non-religious-community/</link>
+            <guid isPermaLink="false">0366b0bf-1167-4da3-8760-1cfd3edab54e</guid>
+            <pubDate>Sun, 20 Mar 2016 18:35:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TED-Evangelism Harkens Back to a Forgotten 19th-Century Tradition]]></title>
             <description><![CDATA[<article><h1>TED-Evangelism Harkens Back to a Forgotten 19th-Century Tradition</h1><p>The top ten most watched TED talks are, in order, about: Creativity Confidence Motivation Vulnerability The Brain Really Cool Technology Orgasm Motivation Motivation Really Cool Science But actually the top ten TED talks are all about you. They're about the way that ideas can transform your life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acd265c4946ef523e558d2dabe879d395496b682.jpg"></article>]]></description>
