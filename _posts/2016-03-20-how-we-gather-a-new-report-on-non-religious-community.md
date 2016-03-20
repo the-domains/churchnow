@@ -25,14 +25,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://caspertk.wordpress.com/2015/04/18/how-we-gather-a-new-report-on-non-religious-community/'
 title: How We Gather - A New Report On Non-Religious Community
-datePublished: '2016-03-20T18:35:31.255Z'
-dateModified: '2016-03-16T02:01:18.331Z'
-starred: false
+datePublished: '2016-03-20T19:50:32.122Z'
+dateModified: '2016-03-20T19:49:38.201Z'
+starred: true
 sourcePath: _posts/2016-03-20-how-we-gather-a-new-report-on-non-religious-community.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
