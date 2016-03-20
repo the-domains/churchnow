@@ -17,8 +17,8 @@ keywords:
   - luke
   - matthew
 description: 'We were becoming convinced that a missional God who attends to us in person and in place was calling and empowering us to do the same. What might it look like for us to live among our neighbours as neighbours, community stakeholders alongside them.'
-datePublished: '2016-03-20T18:49:21.618Z'
-dateModified: '2016-03-20T18:49:16.234Z'
+datePublished: '2016-03-20T18:54:05.666Z'
+dateModified: '2016-03-20T18:53:59.919Z'
 author:
   - name: Karen Wilk
     url: 'http://journalofmissionalpractice.com/author/karen-wilk/'
@@ -44,6 +44,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>God Loves a Good Party</h1><p>We were becoming convinced that a missional God who attends to us in person and in place was calling and empowering us to do the same. What might it look like for us to live among our neighbours as neighbours, community stakeholders alongside them.</p><img src="http://journalofmissionalpractice.com/wp/wp-content/uploads/wordpress-popular-posts/175-80x60.jpg" /></article>
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/315fbf54-f2ce-4ccd-a591-1a62184c57bb.png)
+![We were becoming convinced that a missional God who attends to us in person and in place was calling and empowering us to do the same. What might it look like for us to live among our neighbours as neighbours, community stakeholders alongside them.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/315fbf54-f2ce-4ccd-a591-1a62184c57bb.png)
