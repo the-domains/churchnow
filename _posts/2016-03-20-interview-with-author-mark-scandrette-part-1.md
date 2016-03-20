@@ -17,8 +17,8 @@ keywords:
   - francisco
   - blog
 description: 'Hello Friends, We are pleased to welcome Mark Scandrette, author of Free: Spending Your Time and Money on What Matters Most , to the blog today! Mark is a longtime friend and changemaker based in San Francisco. We were able to sit down briefly and catch up with Mark while he was in Seattle last week.'
-datePublished: '2016-03-20T19:02:05.462Z'
-dateModified: '2016-03-20T19:02:00.698Z'
+datePublished: '2016-03-20T19:09:39.052Z'
+dateModified: '2016-03-20T19:09:36.341Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Interview with Author Mark Scandrette: Part 1</h1><p>Hello Friends, We are pleased to welcome Mark Scandrette, author of Free: Spending Your Time and Money on What Matters Most , to the blog today! Mark is a longtime friend and changemaker based in San Francisco. We were able to sit down briefly and catch up with Mark while he was in Seattle last week.</p><img src="https://s0.wp.com/i/blank.jpg" /></article>
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db0efa5b-33da-4b4b-aaff-5e4164c56caf.png)
+![Tom Sine interviews Mark Scandrette](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d3746f7-db6e-4d33-ab07-66d8da33c6a7.png)
