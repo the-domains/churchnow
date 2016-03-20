@@ -1,0 +1,28 @@
+name: churchnow
+favicon: null
+layout_spectrum: 0.8986121127381921
+typography_spectrum: 0.07002523727715015
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7543947587255388
+  lightness: 0.7526584770530462
+  saturation: 0.5777165738400072
+  rhythmicContrast: 0.3726817350834608
+purpose: []
