@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.newchangemakers.com/interview-with-author-mark-scandrette-part-1/'
 title: 'Interview with Author Mark Scandrette: Part 1'
-datePublished: '2016-03-20T18:42:03.520Z'
-dateModified: '2016-03-20T18:40:33.606Z'
+datePublished: '2016-03-20T18:59:45.540Z'
+dateModified: '2016-03-20T18:56:33.565Z'
 sourcePath: _posts/2016-03-20-interview-with-author-mark-scandrette-part-1.md
 published: true
 inFeed: true
