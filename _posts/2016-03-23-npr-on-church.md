@@ -17,8 +17,8 @@ keywords:
   - congregations
   - orthodox
 description: 'All the latest stories from National Public Radio on church. '
-datePublished: '2016-03-23T18:37:52.014Z'
-dateModified: '2016-03-23T18:37:21.989Z'
+datePublished: '2016-03-23T18:43:26.182Z'
+dateModified: '2016-03-23T18:40:42.708Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>NPR Search : NPR</h1><p>Anglican leaders meeting in Canterbury have temporarily suspended the U.S. Episcopal Church from full participation in the Anglican Communion. The move comes at the behest of conservative bishops - mostly from Africa - who are unhappy with the American church's stance on same-sex marriage and gay clergy.</p><img src="https://media.npr.org/assets/img/2016/02/09/ap_126374817649_wide-942b49eff64bb604f91dc7bc90890370bacee7bb-s300-c15.jpg" /></article>
+<article style=""><h1>NPR on 'church' </h1><p>All the latest stories from NPR on church. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03a377386ff60fe64b9c540d999ab220e59e054b.jpg" /></article>
