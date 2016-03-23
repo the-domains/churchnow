@@ -16,9 +16,9 @@ keywords:
   - vows
   - hadn
   - seattle
-description: "The Rev. Emily Scott was a high-school student in the mid-1990s when she decided to make her faith her career. A gay couple exchanged vows in her family's Seattle church, even though same-sex unions hadn't yet been officially sanctioned by the Episcopal Church. \"That was a key moment for me in understanding what church was about,\" Ms...."
-datePublished: '2016-03-23T16:13:26.816Z'
-dateModified: '2016-03-23T16:13:18.538Z'
+description: ''
+datePublished: '2016-03-23T16:15:56.492Z'
+dateModified: '2016-03-23T16:15:41.987Z'
 author:
   - url: null
     name: Melanie Grayce West
