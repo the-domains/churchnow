@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Walter Brueggemann Keynote at Neighborhood Economics Conference, Cincinnati'
-datePublished: '2016-03-23T18:22:41.417Z'
-dateModified: '2016-03-23T18:22:31.702Z'
+datePublished: '2016-03-23T18:26:45.230Z'
+dateModified: '2016-03-23T18:26:43.879Z'
 author:
   - name: Christopher James
     url: 'http://soundcloud.com/christopher-james-712337083'
@@ -52,14 +52,14 @@ app_links:
     namespace: google
     type: ios
 title: Walter Brueggemann at Neighborhood Economics Conference
+sourcePath: _posts/2016-03-23-walter-brueggemann-at-neighborhood-economics-conference.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-sourcePath: _posts/2016-03-23-walter-brueggemann-at-neighborhood-economics-conference.md
-published: true
 _type: AudioObject
 _context: 'http://schema.org'
 
