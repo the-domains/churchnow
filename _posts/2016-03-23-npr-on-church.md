@@ -17,20 +17,20 @@ keywords:
   - congregations
   - orthodox
 description: 'All the latest stories from National Public Radio on church. '
-datePublished: '2016-03-23T18:37:12.224Z'
-dateModified: '2016-03-23T18:37:08.839Z'
+datePublished: '2016-03-23T18:37:52.014Z'
+dateModified: '2016-03-23T18:37:21.989Z'
 author: []
 related: []
 app_links: []
 title: NPR on Church
+sourcePath: _posts/2016-03-23-npr-on-church.md
+published: true
 authors: []
 publisher:
   name: Npr
   domain: www.npr.org
   url: 'http://www.npr.org'
   favicon: 'http://www.npr.org/favicon.ico'
-sourcePath: _posts/2016-03-23-npr-on-church.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
