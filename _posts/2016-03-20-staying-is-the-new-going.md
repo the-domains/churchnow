@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Frontline Church Planting
-    url: 'https://www.youtube.com/channel/UC-OxcKOK8pMc6Dp1KZUCRtA'
-    avatar: {}
-related: []
-publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com/'
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=I1zx9eoVkTE&feature=youtu.be'
+inLanguage: en
+starred: true
 keywords:
   - duration
   - views
@@ -21,7 +17,13 @@ keywords:
   - hostelworld
   - tove
 description: Uploaded by Frontline Church Planting on 2015-08-31.
-inLanguage: en
+datePublished: '2016-03-23T02:37:52.860Z'
+dateModified: '2016-03-23T02:37:39.277Z'
+author:
+  - name: Frontline Church Planting
+    url: 'https://www.youtube.com/channel/UC-OxcKOK8pMc6Dp1KZUCRtA'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=I1zx9eoVkTE&feature=applinks'
     type: ios
@@ -59,17 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=I1zx9eoVkTE&feature=youtu.be'
 title: Staying is the New Going
-datePublished: '2016-03-23T02:37:32.173Z'
-dateModified: '2016-03-23T02:37:21.349Z'
 sourcePath: _posts/2016-03-20-staying-is-the-new-going.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
-starred: true
 authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
