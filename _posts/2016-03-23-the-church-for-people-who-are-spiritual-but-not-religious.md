@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Organized religion freaks me out, but this is kind of cool. Watch "The Church for People Who Are "Spiritual, But Not Religious"" and more funny videos on CollegeHumor'
-datePublished: '2016-03-23T18:25:19.257Z'
-dateModified: '2016-03-23T16:14:14.829Z'
+datePublished: '2016-03-23T18:32:29.968Z'
+dateModified: '2016-03-23T18:30:06.054Z'
 author:
   - name: CollegeHumor
     url: 'http://www.collegehumor.com'
@@ -16,14 +16,14 @@ author:
 related: []
 app_links: []
 title: 'The Church for People Who Are "Spiritual, But Not Religious"'
+sourcePath: _posts/2016-03-23-the-church-for-people-who-are-spiritual-but-not-religious.md
+published: true
 authors: []
 publisher:
   name: CollegeHumor
   domain: www.collegehumor.com
   url: 'http://www.collegehumor.com'
   favicon: 'http://www.collegehumor.com/favicon.ico'
-sourcePath: _posts/2016-03-23-the-church-for-people-who-are-spiritual-but-not-religious.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
