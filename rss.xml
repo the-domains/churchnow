@@ -4,7 +4,7 @@
         <description><![CDATA[CHURCH NOW]]></description>
         <link>https://thegrid.ai/churchnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 18:33:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 18:37:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/churchnow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ ]]></title>
@@ -26,6 +26,13 @@
             <link>https://caspertk.wordpress.com/2015/04/18/how-we-gather-a-new-report-on-non-religious-community/</link>
             <guid isPermaLink="false">0366b0bf-1167-4da3-8760-1cfd3edab54e</guid>
             <pubDate>Sun, 20 Mar 2016 19:50:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NPR on Church]]></title>
+            <description><![CDATA[<article><h1>NPR on Church</h1><p>Anglican leaders meeting in Canterbury have temporarily suspended the U.S. Episcopal Church from full participation in the Anglican Communion. The move comes at the behest of conservative bishops - mostly from Africa - who are unhappy with the American church's stance on same-sex marriage and gay clergy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03a377386ff60fe64b9c540d999ab220e59e054b.jpg"></article>]]></description>
+            <link>http://www.npr.org/templates/search/index.php?searchinput=church</link>
+            <guid isPermaLink="false">4e91c324-6e9f-4b5d-b5c2-d2c87c9ec808</guid>
+            <pubDate>Wed, 23 Mar 2016 18:37:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Church for People Who Are "Spiritual, But Not Religious"]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.youthministryinnovators.com/blog/2016/3/21/qqffb9mswk18np7awn13bclz3s4iz8</link>
             <guid isPermaLink="false">466f6eaf-2882-4a8c-9659-8deffb0ae0b5</guid>
             <pubDate>Wed, 23 Mar 2016 02:30:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nancy Ammerman on the Latest Congregational Studies Report]]></title>
-            <description><![CDATA[<article><h1>Nancy Ammerman on the Latest Congregational Studies Report</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b42ae8d9a6c9144e37b1d12d64d7fda96fbaee66.png"></article>]]></description>
-            <link>http://studyingcongregations.org/blog/taking-the-measure-of-american-congregations</link>
-            <guid isPermaLink="false">ee643dd9-7812-4986-ac6a-086235f68a0d</guid>
-            <pubDate>Wed, 23 Mar 2016 16:16:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
