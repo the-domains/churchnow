@@ -1,14 +1,10 @@
 ---
-author:
-  - url: null
-    name: Melanie Grayce West
-    avatar: {}
-related: []
-publisher:
-  name: WSJ
-  domain: www.wsj.com
-  url: 'http://www.wsj.com'
-  favicon: 'http://www.wsj.com/android-chrome-192x192.png'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.wsj.com/articles/pastor-forges-a-new-path-in-brooklyn-1450436400'
+inLanguage: en
+starred: true
 keywords:
   - church
   - same-sex
@@ -21,21 +17,26 @@ keywords:
   - hadn
   - seattle
 description: "The Rev. Emily Scott was a high-school student in the mid-1990s when she decided to make her faith her career. A gay couple exchanged vows in her family's Seattle church, even though same-sex unions hadn't yet been officially sanctioned by the Episcopal Church. \"That was a key moment for me in understanding what church was about,\" Ms...."
-inLanguage: en
+datePublished: '2016-03-23T16:13:26.816Z'
+dateModified: '2016-03-23T16:13:18.538Z'
+author:
+  - url: null
+    name: Melanie Grayce West
+    avatar: {}
+related: []
 app_links:
   - url: 'wsj://launch?articleid=SB10077931010256204336504581420711113327744&headline=Rev.%20Emily%20Scott%20forges%20a%20new%20path%20in%20Brooklyn&weburl=http://www.wsj.com/articles/SB10077931010256204336504581420711113327744'
     type: ios
     namespace: ai
-isBasedOnUrl: 'http://www.wsj.com/articles/pastor-forges-a-new-path-in-brooklyn-1450436400'
 title: Dinner church
-datePublished: '2016-03-23T16:12:55.628Z'
-dateModified: '2016-03-23T03:00:19.840Z'
 sourcePath: _posts/2016-03-23-dinner-church.md
 published: true
-starred: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: WSJ
+  domain: www.wsj.com
+  url: 'http://www.wsj.com'
+  favicon: 'http://www.wsj.com/android-chrome-192x192.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
