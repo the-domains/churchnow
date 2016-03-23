@@ -4,7 +4,7 @@
         <description><![CDATA[CHURCH NOW]]></description>
         <link>https://thegrid.ai/churchnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 02:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 02:41:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/churchnow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Staying is the New Going]]></title>
@@ -19,6 +19,13 @@
             <link>https://caspertk.wordpress.com/2015/04/18/how-we-gather-a-new-report-on-non-religious-community/</link>
             <guid isPermaLink="false">0366b0bf-1167-4da3-8760-1cfd3edab54e</guid>
             <pubDate>Sun, 20 Mar 2016 19:50:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/27c6336b155519ca0ef1d19adf812ffd/passthrough.jpg?height=380&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F226c12ac4273ca791c3eba95966781f18e57533b.jpg&width=720">]]></description>
+            <link>https://thegrid.ai/churchnow/46f1ca67-8af2-4934-9e1b-72e68fd9a7ec/index.html</link>
+            <guid isPermaLink="false">46f1ca67-8af2-4934-9e1b-72e68fd9a7ec</guid>
+            <pubDate>Wed, 23 Mar 2016 02:41:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Missional Entrepreneurship Will Move Fast]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.gq.com/story/inside-hillsong-church-of-justin-bieber-kevin-durant</link>
             <guid isPermaLink="false">591aa016-b2e3-4992-bbae-59599845a05c</guid>
             <pubDate>Sun, 20 Mar 2016 19:17:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interview with Author Mark Scandrette: Part 1]]></title>
-            <description><![CDATA[<article><h1>Interview with Author Mark Scandrette: Part 1</h1><p>We are pleased to welcome Mark Scandrette, author of Free: Spending Your Time and Money on What Matters Most , to the blog today! Mark is a longtime friend and changemaker based in San Francisco. We were able to sit down briefly and catch up with Mark while he was in Seattle last week.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15212eeb4f588ed724dd23d459d84d1de9708fa1.png"></article>]]></description>
-            <link>http://www.newchangemakers.com/interview-with-author-mark-scandrette-part-1/</link>
-            <guid isPermaLink="false">f24b517e-6414-40a8-b9ec-7a73c7a63459</guid>
-            <pubDate>Sun, 20 Mar 2016 19:45:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
