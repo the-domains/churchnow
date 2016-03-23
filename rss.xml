@@ -4,8 +4,15 @@
         <description><![CDATA[CHURCH NOW]]></description>
         <link>https://thegrid.ai/churchnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 02:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 02:38:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/churchnow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Staying is the New Going]]></title>
+            <description><![CDATA[<article><h1>Staying is the New Going</h1><p>Uploaded by Frontline Church Planting on 2015-08-31.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0c1ea1d1fa1f9d645b2a4919a6f27d86c6cd401.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=I1zx9eoVkTE&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">d0239ed2-d8ae-4db2-bb2a-455a7026c3be</guid>
+            <pubDate>Wed, 23 Mar 2016 02:37:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How We Gather - A New Report On Non-Religious Community]]></title>
             <description><![CDATA[<article><h1>How We Gather - A New Report On Non-Religious Community</h1><p>My colleague Angie Thurston from the Harvard Divinity School and I published a report this week about the nature of millennial non-religious communities. Have a read! How We Gather</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa072c87ded06a0118fc5afe2574ca6cb02ffae5.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.newchangemakers.com/interview-with-author-mark-scandrette-part-1/</link>
             <guid isPermaLink="false">f24b517e-6414-40a8-b9ec-7a73c7a63459</guid>
             <pubDate>Sun, 20 Mar 2016 19:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Congregational Resource Center | The Association of Religion Data Archives]]></title>
-            <description><![CDATA[<article><h1>Congregational Resource Center | The Association of Religion Data Archives</h1><p>Ahead of the Trend is a collegial effort, enlisting the cooperation of researchers, universities, journal editors, institutes and associations of scholars to increase the impact and awareness of important findings in religion research.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c742ee561a7a29882417e6cfa2613b0b3ea04c2.png"></article>]]></description>
-            <link>http://thearda.com/congregations.asp</link>
-            <guid isPermaLink="false">707520f4-b1b4-40ee-9118-abf68e887d7a</guid>
-            <pubDate>Sun, 20 Mar 2016 19:45:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
