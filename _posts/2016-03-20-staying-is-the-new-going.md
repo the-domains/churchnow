@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - duration
   - views
@@ -61,13 +61,15 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=I1zx9eoVkTE&feature=youtu.be'
 title: Staying is the New Going
-datePublished: '2016-03-20T18:55:57.421Z'
-dateModified: '2016-03-20T18:46:44.148Z'
+datePublished: '2016-03-23T02:37:32.173Z'
+dateModified: '2016-03-23T02:37:21.349Z'
 sourcePath: _posts/2016-03-20-staying-is-the-new-going.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
