@@ -1,14 +1,14 @@
 ---
 author:
-  - name: Melanie Grayce West
-    url: null
+  - url: null
+    name: Melanie Grayce West
     avatar: {}
 related: []
 publisher:
-  url: 'http://www.wsj.com'
   name: WSJ
-  favicon: 'http://www.wsj.com/android-chrome-192x192.png'
   domain: www.wsj.com
+  url: 'http://www.wsj.com'
+  favicon: 'http://www.wsj.com/android-chrome-192x192.png'
 keywords:
   - church
   - same-sex
@@ -28,10 +28,11 @@ app_links:
     namespace: ai
 isBasedOnUrl: 'http://www.wsj.com/articles/pastor-forges-a-new-path-in-brooklyn-1450436400'
 title: Dinner church
-datePublished: '2016-03-23T02:59:55.134Z'
-dateModified: '2016-03-23T02:57:05.102Z'
+datePublished: '2016-03-23T16:12:55.628Z'
+dateModified: '2016-03-23T03:00:19.840Z'
 sourcePath: _posts/2016-03-23-dinner-church.md
 published: true
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
