@@ -4,7 +4,7 @@
         <description><![CDATA[CHURCH NOW]]></description>
         <link>https://thegrid.ai/churchnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 18:05:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 18:06:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/churchnow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ ]]></title>
@@ -26,6 +26,13 @@
             <link>https://caspertk.wordpress.com/2015/04/18/how-we-gather-a-new-report-on-non-religious-community/</link>
             <guid isPermaLink="false">0366b0bf-1167-4da3-8760-1cfd3edab54e</guid>
             <pubDate>Sun, 20 Mar 2016 19:50:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><p>What happens when two friends, one a seasoned Windermere real estate broker (Rob) and the other a community development entrepreneur (Sean), decide to bring their talents together in business? Sparks fly!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7955764bd1a1c5290ad2cd924d6a140e7d1755d0.jpg"></article>]]></description>
+            <link>http://www.2roofs.com/#2roofs-bellingham-real-estate-agent</link>
+            <guid isPermaLink="false">6fc870e7-1ea4-4f8d-80ca-f38ce1250910</guid>
+            <pubDate>Thu, 31 Mar 2016 18:05:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Five Hopeful Signs that Dare Us to Be the Church]]></title>
@@ -68,13 +75,6 @@
             <link>http://legacy.king5.com/story/news/local/seattle/2015/03/30/seattle-religious-affiliation-future-of-church/70687648/</link>
             <guid isPermaLink="false">1f0c738f-5c17-406c-9c9a-1cef94af7727</guid>
             <pubDate>Thu, 24 Mar 2016 19:41:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Seattle the Birthplace of a New Religion?]]></title>
-            <description><![CDATA[<article><h1>Is Seattle the Birthplace of a New Religion?</h1><p>Easter happens early this year, and on that Sunday morning, my church-a progressive mainline Protestant congregation in a youthful Seattle neighborhood-will overflow with people of all ages. This story begins the Sunday after, when the crowd has thinned and visibly aged.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/205b09e685387a5d5408f9d36269625cb1cbe750.jpg"></article>]]></description>
-            <link>http://www.seattlemet.com/articles/2016/3/23/is-seattle-the-birthplace-of-a-new-religion</link>
-            <guid isPermaLink="false">2f76fabe-88a6-4c4a-ac31-eb62e9780e5c</guid>
-            <pubDate>Thu, 24 Mar 2016 19:41:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
