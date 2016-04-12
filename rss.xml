@@ -4,7 +4,7 @@
         <description><![CDATA[CHURCH NOW]]></description>
         <link>https://thegrid.ai/churchnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 14:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 14:22:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/churchnow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ ]]></title>
@@ -26,6 +26,13 @@
             <link>https://caspertk.wordpress.com/2015/04/18/how-we-gather-a-new-report-on-non-religious-community/</link>
             <guid isPermaLink="false">0366b0bf-1167-4da3-8760-1cfd3edab54e</guid>
             <pubDate>Sun, 20 Mar 2016 19:50:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Faith, Spirituality & the Future]]></title>
+            <description><![CDATA[<article><h1>Faith, Spirituality & the Future</h1><p>This documentary looks at how spirituality is evolving in our culture and what it means for religious institutions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d26170b7707b4bfdfc1fbf238e8135e5ebf346de.jpg"></article>]]></description>
+            <link>http://www.cbsnews.com/videos/faith-spirituality-the-future/</link>
+            <guid isPermaLink="false">d0c0613c-b083-4597-8fe0-fba6f4f5f3f6</guid>
+            <pubDate>Tue, 12 Apr 2016 14:21:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[7 Paths to Development That Bring Neighborhoods Wealth, Not Gentrification]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.pps.org/reference/ten-strategies-for-transforming-cities-through-placemaking-public-spaces/</link>
             <guid isPermaLink="false">b1ffe7bd-3dbb-4986-983d-116d968afd25</guid>
             <pubDate>Sun, 03 Apr 2016 20:46:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Church Planting Myths Dispelled]]></title>
-            <description><![CDATA[<article><h1>Church Planting Myths Dispelled</h1><p>As an Episcopal Church planter who founded King of Peace Episcopal Church in Kingsland, Georgia from 2000-2010, I remain very interested in the work of starting new congregations. Some friends and I drafted a resolution for the General Convention challenging the church to expand our church's capacity to plant new churches.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfc1db6a612c14c26d2aca7097c76d09450339c7.jpg"></article>]]></description>
-            <link>http://loosecanon.georgiaepiscopal.org/?p=1451</link>
-            <guid isPermaLink="false">b576ddf3-30a8-4814-94ed-ba47f9efd79d</guid>
-            <pubDate>Thu, 31 Mar 2016 18:25:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
