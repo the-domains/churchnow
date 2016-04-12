@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.cbsnews.com'
-  name: Cbsnews
-  favicon: 'http://www.cbsnews.com/favicon.ico'
-  domain: www.cbsnews.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.cbsnews.com/videos/faith-spirituality-the-future/'
+inLanguage: en
+starred: true
 keywords:
   - copscotch
   - trump
@@ -18,7 +17,10 @@ keywords:
   - heavy
   - noonan
 description: This documentary looks at how spirituality is evolving in our culture and what it means for religious institutions.
-inLanguage: en
+datePublished: '2016-04-12T18:24:54.984Z'
+dateModified: '2016-04-12T18:24:54.708Z'
+author: []
+related: []
 app_links:
   - namespace: twitter
     type: iphone
@@ -30,15 +32,15 @@ app_links:
     package: com.treemolabs.apps.cbsnews
     namespace: google
     type: android
-isBasedOnUrl: 'http://www.cbsnews.com/videos/faith-spirituality-the-future/'
 title: 'Faith, Spirituality & the Future'
-datePublished: '2016-04-12T14:21:54.604Z'
-dateModified: '2016-04-03T23:17:44.832Z'
 sourcePath: _posts/2016-04-12-faith-spirituality-and-the-future.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Cbsnews
+  domain: www.cbsnews.com
+  url: 'http://www.cbsnews.com'
+  favicon: 'http://www.cbsnews.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
