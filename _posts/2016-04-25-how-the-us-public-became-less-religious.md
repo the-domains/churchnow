@@ -5,23 +5,25 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 keywords: []
 description: 'Is the American public becoming less religious? Yes, at least by some key measures of what it means to be a religious person. An extensive new survey of more than 35,000 U.S. adults finds that the percentages who say they believe in God, pray daily and regularly go to church or other religious services all have declined modestly in recent years.'
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ykr4WeHaJNE'
 title: How the U.S. public became less religious
-datePublished: '2016-04-25T16:15:43.883Z'
-dateModified: '2016-04-25T16:13:52.308Z'
-starred: false
+datePublished: '2016-04-26T19:11:08.164Z'
+dateModified: '2016-04-26T19:10:59.997Z'
 sourcePath: _posts/2016-04-25-how-the-us-public-became-less-religious.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+authors: []
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
