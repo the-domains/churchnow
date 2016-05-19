@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.zachyentzer.com'
-  name: Zach Yentzer
-  favicon: 'http://www.zachyentzer.com/files/theme/favicon.ico'
-  domain: www.zachyentzer.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.zachyentzer.com/blog/millennials-localization-and-the-new-parish?utm_content=buffer44897&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer'
+inLanguage: en
 keywords:
   - church
   - localization
@@ -18,17 +16,20 @@ keywords:
   - etc
   - focus
 description: "As I've often said on the blog, talking about Millennials and the church is important (and fun!) because what it really serves to do is push the church to ask and answer some really big questions. A more recent, and probably long-term one, is how does the church deal with a generation and world more and more focused on localization?"
-inLanguage: en
+datePublished: '2016-05-19T14:26:05.866Z'
+dateModified: '2016-05-19T14:26:05.607Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.zachyentzer.com/blog/millennials-localization-and-the-new-parish?utm_content=buffer44897&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer'
 title: 'Millennials, Localization, and The New Parish'
-datePublished: '2016-05-13T02:36:37.394Z'
-dateModified: '2016-05-10T02:32:27.656Z'
-starred: false
 sourcePath: _posts/2016-05-13-millennials-localization-and-the-new-parish.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Zach Yentzer
+  domain: www.zachyentzer.com
+  url: 'http://www.zachyentzer.com'
+  favicon: 'http://www.zachyentzer.com/files/theme/favicon.ico'
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
