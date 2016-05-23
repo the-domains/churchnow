@@ -4,8 +4,15 @@
         <description><![CDATA[CHURCH NOW]]></description>
         <link>https://thegrid.ai/churchnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 19:47:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 19:56:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/churchnow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Love your neighbors.]]></title>
+            <description><![CDATA[<article><h1>Love your neighbors.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4542c4ef85fde471e6dfeecaba891e253ed5687d.jpg"></article>]]></description>
+            <link>http://neighboringwell.com/</link>
+            <guid isPermaLink="false">8df665d2-3bf1-403d-9c86-4ae952d4f7c6</guid>
+            <pubDate>Mon, 23 May 2016 19:56:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[5 Massive Changes Coming to Your Church (If They're Not Here Already)]]></title>
             <description><![CDATA[<article><h1>5 Massive Changes Coming to Your Church (If They're Not Here Already)</h1><p>The good news of Jesus never changes. But the way people receive that news is changing. Fast. Have you ever wondered why virtually every church leader is constantly writing and speaking about change? Including me? Because we live in the fastest-changing culture ever. Change is not just an ocassional reality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05b33cc0c92ce0f8dc51f3b1a1c9fc57081b9eaa.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://caspertk.wordpress.com/2015/04/18/how-we-gather-a-new-report-on-non-religious-community/</link>
             <guid isPermaLink="false">0366b0bf-1167-4da3-8760-1cfd3edab54e</guid>
             <pubDate>Sun, 20 Mar 2016 19:50:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In search of sanctuary]]></title>
-            <description><![CDATA[<article><h1>In search of sanctuary</h1><p>The pews grew emptier and emptier. Until at last they realized: the Congregational Church of West Medford was dying. But they were people of faith and they believed in resurrection. For two years, this is what they have looked for. It is a bright Sunday morning at the end of September 2014.</p><img src="https://apps.bostonglobe.com/graphics/2016/05/sanctuary/assets/img/2073__2014-June-01_1200.jpg"></article>]]></description>
-            <link>http://apps.bostonglobe.com/graphics/2016/05/sanctuary/</link>
-            <guid isPermaLink="false">05a337b2-ae03-4c39-bd46-c7f73f599785</guid>
-            <pubDate>Fri, 20 May 2016 19:46:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
