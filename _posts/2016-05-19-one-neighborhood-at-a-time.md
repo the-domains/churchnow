@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.nytimes.com'
-  name: Nytimes
-  favicon: 'https://static01.nyt.com/favicon.ico'
-  domain: www.nytimes.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.nytimes.com/2016/05/17/opinion/one-neighborhood-at-a-time.html?_r=1'
+inLanguage: en
 keywords:
   - hills
   - pre-k
@@ -18,7 +16,10 @@ keywords:
   - almonds
   - center
 description: 'LOST HILLS, Calif. - What is the central challenge facing our era? My answer would be: social isolation. Gaps have opened up among partisan tribes, economic classes and races. There has been a loss of social capital, especially for communities down the income scale. Take, for example, the town of Lost Hills.'
-inLanguage: en
+datePublished: '2016-05-27T21:01:02.933Z'
+dateModified: '2016-05-27T21:01:02.316Z'
+author: []
+related: []
 app_links:
   - url: 'nytimes://reader/id/100000004411922'
     namespace: ai
@@ -44,15 +45,15 @@ app_links:
     type: android
     namespace: google
     package: com.nytimes.android
-isBasedOnUrl: 'http://www.nytimes.com/2016/05/17/opinion/one-neighborhood-at-a-time.html?_r=1'
 title: One Neighborhood at a Time
-datePublished: '2016-05-19T14:24:28.466Z'
-dateModified: '2016-05-19T14:21:53.228Z'
-starred: false
 sourcePath: _posts/2016-05-19-one-neighborhood-at-a-time.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Nytimes
+  domain: www.nytimes.com
+  url: 'http://www.nytimes.com'
+  favicon: 'https://static01.nyt.com/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
