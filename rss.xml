@@ -4,21 +4,21 @@
         <description><![CDATA[CHURCH NOW]]></description>
         <link>https://thegrid.ai/churchnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 16:27:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 21:01:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/churchnow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>The ties that unite a neighborhood help us better tackle and enjoy the myriad of challenges and opportunities we face. The simple goal of National Neighborhood Day is to bring neighbors together and to help enhance neighborhood connections. Neighbors knowing neighbors improves neighborhood connections; connected neighborhoods lead to more effective communities; effective communities strengthen our nation as a whole.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab1632bd6ba26a48f8086a76a328d11e63fd9874.jpg"></article>]]></description>
+            <link>http://neighborhoodday.org/</link>
+            <guid isPermaLink="false">dcc45adf-7791-41b7-a8dc-f7bd797719c0</guid>
+            <pubDate>Fri, 27 May 2016 21:00:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Love your neighbors.]]></title>
             <description><![CDATA[<article><h1>Love your neighbors.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4542c4ef85fde471e6dfeecaba891e253ed5687d.jpg"></article>]]></description>
             <link>http://neighboringwell.com/</link>
             <guid isPermaLink="false">8df665d2-3bf1-403d-9c86-4ae952d4f7c6</guid>
             <pubDate>Mon, 23 May 2016 19:56:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 Massive Changes Coming to Your Church (If They're Not Here Already)]]></title>
-            <description><![CDATA[<article><h1>5 Massive Changes Coming to Your Church (If They're Not Here Already)</h1><p>The good news of Jesus never changes. But the way people receive that news is changing. Fast. Have you ever wondered why virtually every church leader is constantly writing and speaking about change? Including me? Because we live in the fastest-changing culture ever. Change is not just an ocassional reality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05b33cc0c92ce0f8dc51f3b1a1c9fc57081b9eaa.jpg"></article>]]></description>
-            <link>http://www.christianitytoday.com/karl-vaters/2016/april/5-massive-changes-coming-to-your-church.html?paging=off</link>
-            <guid isPermaLink="false">59c0b4f6-b6ba-4fcf-83b0-d8fd36502fdb</guid>
-            <pubDate>Thu, 19 May 2016 14:26:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Millennials, Localization, and The New Parish]]></title>
@@ -70,11 +70,11 @@
             <pubDate>Wed, 23 Mar 2016 02:37:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How We Gather - A New Report On Non-Religious Community]]></title>
-            <description><![CDATA[<article><h1>How We Gather - A New Report On Non-Religious Community</h1><p>My colleague Angie Thurston from the Harvard Divinity School and I published a report this week about the nature of millennial non-religious communities. Have a read! How We Gather</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa072c87ded06a0118fc5afe2574ca6cb02ffae5.png"></article>]]></description>
-            <link>https://caspertk.wordpress.com/2015/04/18/how-we-gather-a-new-report-on-non-religious-community/</link>
-            <guid isPermaLink="false">0366b0bf-1167-4da3-8760-1cfd3edab54e</guid>
-            <pubDate>Sun, 20 Mar 2016 19:50:32 GMT</pubDate>
+            <title><![CDATA[5 Massive Changes Coming to Your Church (If They're Not Here Already)]]></title>
+            <description><![CDATA[<article><h1>5 Massive Changes Coming to Your Church (If They're Not Here Already)</h1><p>The good news of Jesus never changes. But the way people receive that news is changing. Fast. Have you ever wondered why virtually every church leader is constantly writing and speaking about change? Including me? Because we live in the fastest-changing culture ever. Change is not just an ocassional reality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05b33cc0c92ce0f8dc51f3b1a1c9fc57081b9eaa.jpg"></article>]]></description>
+            <link>http://www.christianitytoday.com/karl-vaters/2016/april/5-massive-changes-coming-to-your-church.html?paging=off</link>
+            <guid isPermaLink="false">59c0b4f6-b6ba-4fcf-83b0-d8fd36502fdb</guid>
+            <pubDate>Fri, 27 May 2016 21:00:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
