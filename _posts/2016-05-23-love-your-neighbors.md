@@ -1,23 +1,25 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://neighboringwell.com/'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-27T21:02:14.520Z'
+dateModified: '2016-05-27T21:02:14.185Z'
 author: []
 related: []
+app_links: []
+title: Love your neighbors.
+sourcePath: _posts/2016-05-23-love-your-neighbors.md
+authors: []
 publisher:
   name: NeighboringWell
   domain: neighboringwell.com
   url: 'http://neighboringwell.com'
   favicon: 'http://neighboringwell.com/favicon.ico'
-keywords: []
-description: ''
-app_links: []
-isBasedOnUrl: 'http://neighboringwell.com/'
-title: Love your neighbors.
-datePublished: '2016-05-23T19:56:40.387Z'
-dateModified: '2016-05-13T11:05:43.318Z'
-starred: true
-sourcePath: _posts/2016-05-23-love-your-neighbors.md
-inFeed: true
-hasPage: false
-inNav: false
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
