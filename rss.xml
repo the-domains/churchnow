@@ -4,7 +4,7 @@
         <description><![CDATA[CHURCH NOW]]></description>
         <link>https://thegrid.ai/churchnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 21:02:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 21:02:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/churchnow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Home]]></title>
@@ -56,6 +56,13 @@
             <pubDate>Wed, 23 Mar 2016 02:37:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A White Church No More]]></title>
+            <description><![CDATA[<article><h1>A White Church No More</h1><p>YEARS ago, members of a Southern Baptist church in suburban Birmingham, Ala., who couldn't figure out why their church was in decline asked a friend of mine for advice. The area had been majority white during the violent years of Jim Crow.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5e8d25646de42f9e83b05b25fd91c60bf2da5c8.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2016/05/06/opinion/a-white-church-no-more.html?smprod=nytcore-iphone&amp;smid=nytcore-iphone-share&amp;_r=1</link>
+            <guid isPermaLink="false">a8fbd8c0-114f-446e-bc50-222dec9bf94c</guid>
+            <pubDate>Fri, 27 May 2016 21:02:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Love your neighbors.]]></title>
             <description><![CDATA[<article><h1>Love your neighbors.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4542c4ef85fde471e6dfeecaba891e253ed5687d.jpg"></article>]]></description>
             <link>http://neighboringwell.com/</link>
@@ -68,13 +75,6 @@
             <link>http://www.zachyentzer.com/blog/millennials-localization-and-the-new-parish?utm_content=buffer44897&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">5636c774-134b-4f80-bb49-82f8c6022464</guid>
             <pubDate>Fri, 27 May 2016 21:01:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One Neighborhood at a Time]]></title>
-            <description><![CDATA[<article><h1>One Neighborhood at a Time</h1><p>LOST HILLS, Calif. - What is the central challenge facing our era? My answer would be: social isolation. Gaps have opened up among partisan tribes, economic classes and races. There has been a loss of social capital, especially for communities down the income scale. Take, for example, the town of Lost Hills.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dea65068930527f86d0abf280d725f57295633ea.jpg"></article>]]></description>
-            <link>http://www.nytimes.com/2016/05/17/opinion/one-neighborhood-at-a-time.html?_r=1</link>
-            <guid isPermaLink="false">37878163-0ae2-41e7-92e4-39a1697d2dfb</guid>
-            <pubDate>Fri, 27 May 2016 21:01:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
