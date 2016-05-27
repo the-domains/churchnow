@@ -16,8 +16,8 @@ keywords:
   - live
   - every
 description: The good news of Jesus never changes. But the way people receive that news is changing. Fast. Have you ever wondered why virtually every church leader is constantly writing and speaking about change? Including me? Because we live in the fastest-changing culture ever. Change is not just an ocassional reality.
-datePublished: '2016-05-19T14:26:12.642Z'
-dateModified: '2016-05-19T14:26:12.143Z'
+datePublished: '2016-05-27T21:00:47.236Z'
+dateModified: '2016-05-27T21:00:46.910Z'
 author: []
 related: []
 app_links: []
@@ -29,7 +29,7 @@ publisher:
   domain: www.christianitytoday.com
   url: 'http://www.christianitytoday.com'
   favicon: 'http://www.christianitytoday.com/favicon.ico'
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
