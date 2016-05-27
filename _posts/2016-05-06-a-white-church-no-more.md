@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.nytimes.com'
-  name: Nytimes
-  favicon: 'https://static01.nyt.com/favicon.ico'
-  domain: www.nytimes.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.nytimes.com/2016/05/06/opinion/a-white-church-no-more.html?smprod=nytcore-iphone&smid=nytcore-iphone-share&_r=1'
+inLanguage: en
 keywords:
   - evangelicals
   - church
@@ -18,41 +16,44 @@ keywords:
   - african-americans
   - congregation
 description: "YEARS ago, members of a Southern Baptist church in suburban Birmingham, Ala., who couldn't figure out why their church was in decline asked a friend of mine for advice. The area had been majority white during the violent years of Jim Crow."
-inLanguage: en
+datePublished: '2016-05-27T21:02:23.783Z'
+dateModified: '2016-05-27T21:02:23.412Z'
+author: []
+related: []
 app_links:
-  - url: 'nytimes://reader/id/100000004384695'
-    namespace: ai
+  - namespace: ai
     type: android
-    app_name: NYTimes
     package: com.nytimes.android
-  - url: 'nytimes://www.nytimes.com/2016/05/06/opinion/a-white-church-no-more.html'
-    namespace: ai
+    url: 'nytimes://reader/id/100000004384695'
+    app_name: NYTimes
+  - namespace: ai
     type: iphone
     app_store_id: '284862083'
+    url: 'nytimes://www.nytimes.com/2016/05/06/opinion/a-white-church-no-more.html'
     app_name: NYTimes
-  - url: 'nytimes://www.nytimes.com/2016/05/06/opinion/a-white-church-no-more.html'
-    namespace: ai
+  - namespace: ai
     type: ipad
     app_store_id: '357066198'
+    url: 'nytimes://www.nytimes.com/2016/05/06/opinion/a-white-church-no-more.html'
     app_name: NYTimes
-  - url: 'nytimes://reader/id/100000004384695'
-    type: googleplay
+  - type: googleplay
     namespace: twitter
     name: NYTimes
     id: com.nytimes.android
-  - path: nytimes/reader/id/100000004384695
-    type: android
+    url: 'nytimes://reader/id/100000004384695'
+  - type: android
     namespace: google
     package: com.nytimes.android
-isBasedOnUrl: 'http://www.nytimes.com/2016/05/06/opinion/a-white-church-no-more.html?smprod=nytcore-iphone&smid=nytcore-iphone-share&_r=1'
+    path: nytimes/reader/id/100000004384695
 title: A White Church No More
-datePublished: '2016-05-06T13:56:35.255Z'
-dateModified: '2016-05-06T13:54:19.868Z'
-starred: false
 sourcePath: _posts/2016-05-06-a-white-church-no-more.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Nytimes
+  domain: www.nytimes.com
+  url: 'http://www.nytimes.com'
+  favicon: 'https://static01.nyt.com/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
