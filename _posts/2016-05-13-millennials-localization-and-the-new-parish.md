@@ -16,8 +16,8 @@ keywords:
   - etc
   - focus
 description: "As I've often said on the blog, talking about Millennials and the church is important (and fun!) because what it really serves to do is push the church to ask and answer some really big questions. A more recent, and probably long-term one, is how does the church deal with a generation and world more and more focused on localization?"
-datePublished: '2016-05-19T14:26:05.866Z'
-dateModified: '2016-05-19T14:26:05.607Z'
+datePublished: '2016-05-27T21:01:09.588Z'
+dateModified: '2016-05-27T21:01:09.217Z'
 author: []
 related: []
 app_links: []
@@ -29,7 +29,7 @@ publisher:
   domain: www.zachyentzer.com
   url: 'http://www.zachyentzer.com'
   favicon: 'http://www.zachyentzer.com/files/theme/favicon.ico'
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
