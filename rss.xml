@@ -4,7 +4,7 @@
         <description><![CDATA[CHURCH NOW]]></description>
         <link>https://thegrid.ai/churchnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 21:01:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 21:02:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/churchnow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Home]]></title>
@@ -12,13 +12,6 @@
             <link>http://neighborhoodday.org/</link>
             <guid isPermaLink="false">dcc45adf-7791-41b7-a8dc-f7bd797719c0</guid>
             <pubDate>Fri, 27 May 2016 21:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Love your neighbors.]]></title>
-            <description><![CDATA[<article><h1>Love your neighbors.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4542c4ef85fde471e6dfeecaba891e253ed5687d.jpg"></article>]]></description>
-            <link>http://neighboringwell.com/</link>
-            <guid isPermaLink="false">8df665d2-3bf1-403d-9c86-4ae952d4f7c6</guid>
-            <pubDate>Mon, 23 May 2016 19:56:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bono & Eugene Peterson | THE PSALMS]]></title>
@@ -61,6 +54,13 @@
             <link>https://www.youtube.com/watch?v=I1zx9eoVkTE&amp;feature=youtu.be</link>
             <guid isPermaLink="false">d0239ed2-d8ae-4db2-bb2a-455a7026c3be</guid>
             <pubDate>Wed, 23 Mar 2016 02:37:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Love your neighbors.]]></title>
+            <description><![CDATA[<article><h1>Love your neighbors.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4542c4ef85fde471e6dfeecaba891e253ed5687d.jpg"></article>]]></description>
+            <link>http://neighboringwell.com/</link>
+            <guid isPermaLink="false">8df665d2-3bf1-403d-9c86-4ae952d4f7c6</guid>
+            <pubDate>Fri, 27 May 2016 21:02:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Millennials, Localization, and The New Parish]]></title>
