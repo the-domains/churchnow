@@ -1,14 +1,9 @@
 ---
-author:
-  - name: D.G. Hollums
-    url: 'http://www.patheos.com/blogs/faithforward/author/dghollums/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.patheos.com'
-  name: Faith Forward
-  favicon: 'http://wp.production.patheos.com/blogs/wp-content/themes/Patheos%20TwentyTen/images/favicon.ico.gzip'
-  domain: www.patheos.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.patheos.com/blogs/faithforward/2016/05/church-really-can-happen-anywhere/'
+inLanguage: en
 keywords:
   - church
   - listening
@@ -21,17 +16,23 @@ keywords:
   - passion
   - creating
 description: 'Rethinking Church is not a new concept in the history of Christianity. The Church has seen transformations in multiple iterations throughout its life. So, when The United Methodist Church creates a piece within itself that is attempting to rethink church, the task is going to be filled with challenges and excitement.'
-inLanguage: en
+datePublished: '2016-05-30T18:46:39.833Z'
+dateModified: '2016-05-30T18:46:39.541Z'
+author:
+  - name: D.G. Hollums
+    url: 'http://www.patheos.com/blogs/faithforward/author/dghollums/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.patheos.com/blogs/faithforward/2016/05/church-really-can-happen-anywhere/'
 title: Church Really Can Happen Anywhere
-datePublished: '2016-05-30T18:46:24.449Z'
-dateModified: '2016-05-30T18:30:44.228Z'
+authors: []
+publisher:
+  name: Faith Forward
+  domain: www.patheos.com
+  url: 'http://www.patheos.com'
+  favicon: 'http://wp.production.patheos.com/blogs/wp-content/themes/Patheos%20TwentyTen/images/favicon.ico.gzip'
 starred: false
 sourcePath: _posts/2016-05-30-church-really-can-happen-anywhere.md
-inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
