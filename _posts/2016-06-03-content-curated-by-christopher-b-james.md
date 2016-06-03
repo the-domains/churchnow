@@ -5,14 +5,15 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Stories, articles and videos curated by Christopher B. James on church, culture, and neighborhoods.'
-datePublished: '2016-06-03T15:42:02.721Z'
-dateModified: '2016-06-03T15:41:46.180Z'
+datePublished: '2016-06-03T15:57:49.732Z'
+dateModified: '2016-06-03T15:55:10.662Z'
 author:
   - name: Christopher B. James
     url: ''
 related: []
 app_links: []
 title: Content Curated by Christopher B. James
+sourcePath: _posts/2016-06-03-content-curated-by-christopher-b-james.md
 authors: []
 publisher:
   name: Chrisbjames
@@ -20,7 +21,6 @@ publisher:
   url: 'http://chrisbjames.com'
   favicon: null
 starred: false
-sourcePath: _posts/2016-06-03-content-curated-by-christopher-b-james.md
 url: content-curated-by-christopher-b-james/index.html
 _context: 'http://schema.org'
 _type: MediaObject
