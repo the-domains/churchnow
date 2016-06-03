@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Stories, articles and videos about the future of church, neighborhood, and spirituality curated by Christopher B. James on church, culture, and neighborhoods.'
-datePublished: '2016-06-03T16:09:22.255Z'
-dateModified: '2016-06-03T16:05:02.883Z'
+datePublished: '2016-06-03T18:07:48.097Z'
+dateModified: '2016-06-03T18:07:33.314Z'
 author:
   - name: Christopher B. James
     url: 'http://chrisbjames.com'
