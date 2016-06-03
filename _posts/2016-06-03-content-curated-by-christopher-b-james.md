@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Stories, articles and videos about the future of church, neighborhood, and spirituality curated by Christopher B. James on church, culture, and neighborhoods.'
-datePublished: '2016-06-03T18:07:48.097Z'
-dateModified: '2016-06-03T18:07:33.314Z'
+description: 'Stories, articles and videos about the future of church, neighborhood, and spirituality curated by Christopher B. James. '
+datePublished: '2016-06-03T18:11:24.494Z'
+dateModified: '2016-06-03T18:11:19.836Z'
 author:
   - name: Christopher B. James
     url: 'http://chrisbjames.com'
@@ -26,4 +26,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![Stories, articles and videos about the future of church, neighborhood, and spirituality curated by Christopher B. James on church, culture, and neighborhoods.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3add799-f3f7-454f-b43e-8ce6d37235d8.png)
+![Stories, articles and videos about the future of church, neighborhood, and spirituality curated by Christopher B. James. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3add799-f3f7-454f-b43e-8ce6d37235d8.png)
