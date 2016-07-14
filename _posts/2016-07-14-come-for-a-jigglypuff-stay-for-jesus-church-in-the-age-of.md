@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://www.washingtonpost.com'
-  name: Washington Post
-  favicon: 'https://www.washingtonpost.com/favicon.ico'
-  domain: www.washingtonpost.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: >-
+  https://www.washingtonpost.com/news/acts-of-faith/wp/2016/07/13/come-for-a-jigglypuff-stay-for-jesus-church-in-the-age-of-pokemon-go/
+inLanguage: en
 keywords:
   - pok
   - church
@@ -22,7 +21,10 @@ description: >-
   son that I had never said before: "No playing 'Pokémon Go' during the
   service." I'm not the only parent or pastor wrestling with the game that swept
   the nation over the weekend.
-inLanguage: en
+datePublished: '2016-07-14T17:58:42.686Z'
+dateModified: '2016-07-14T17:58:42.400Z'
+author: []
+related: []
 app_links:
   - path: >-
       wp-android-rainbow/www.washingtonpost.com/news/acts-of-faith/wp/2016/07/13/come-for-a-jigglypuff-stay-for-jesus-church-in-the-age-of-pokemon-go/
@@ -34,16 +36,15 @@ app_links:
     package: com.washingtonpost.android
     namespace: google
     type: android
-isBasedOnUrl: >-
-  https://www.washingtonpost.com/news/acts-of-faith/wp/2016/07/13/come-for-a-jigglypuff-stay-for-jesus-church-in-the-age-of-pokemon-go/
 title: 'Come for a Jigglypuff, stay for Jesus: Church in the age of Pokémon Go'
-datePublished: '2016-07-14T16:07:00.459Z'
-dateModified: '2016-07-14T16:02:22.544Z'
-starred: false
 sourcePath: _posts/2016-07-14-come-for-a-jigglypuff-stay-for-jesus-church-in-the-age-of.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Washington Post
+  domain: www.washingtonpost.com
+  url: 'https://www.washingtonpost.com'
+  favicon: 'https://www.washingtonpost.com/favicon.ico'
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
