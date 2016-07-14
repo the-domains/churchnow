@@ -1,29 +1,35 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=-l40S5e90KY'
+inLanguage: null
+keywords: []
+description: >-
+  This short film documents the friendship between Bono (lead musician of the
+  band U2) and Eugene Peterson (author of contemporary-language Bible
+  translation The Message) revolving around their common interest in the Psalms.
+  Based on interviews conducted by Fuller Seminary faculty member David Taylor
+  and produced in association with Fourth Line Films, the film highlights in
+  particular a conversation on the Psalms that took place between Bono,
+  Peterson, and Taylor at Peterson's Montana home.
+datePublished: '2016-07-14T17:59:46.051Z'
+dateModified: '2016-07-14T17:59:45.743Z'
 author:
   - name: FULLER studio
     url: 'https://www.youtube.com/channel/UC8B79SXbCi79ob5yxWEJc1Q'
     avatar: {}
 related: []
+app_links: []
+title: Bono & Eugene Peterson | THE PSALMS
+sourcePath: _posts/2016-04-26-bono-and-eugene-peterson-or-the-psalms.md
+authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-keywords: []
-description: "This short film documents the friendship between Bono (lead musician of the band U2) and Eugene Peterson (author of contemporary-language Bible translation The Message) revolving around their common interest in the Psalms. Based on interviews conducted by Fuller Seminary faculty member David Taylor and produced in association with Fourth Line Films, the film highlights in particular a conversation on the Psalms that took place between Bono, Peterson, and Taylor at Peterson's Montana home."
-app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=-l40S5e90KY'
-title: 'Bono & Eugene Peterson | THE PSALMS'
-datePublished: '2016-04-26T19:11:19.085Z'
-dateModified: '2016-04-26T19:11:11.271Z'
-sourcePath: _posts/2016-04-26-bono-and-eugene-peterson-or-the-psalms.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-authors: []
-starred: true
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
