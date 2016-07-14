@@ -1,14 +1,10 @@
 ---
-author:
-  - url: 'https://caspertk.wordpress.com/author/cterkuile/'
-    name: caspertk
-    avatar: {}
-related: []
-publisher:
-  name: Casper ter Kuile
-  domain: caspertk.wordpress.com
-  url: 'http://caspertk.wordpress.com'
-  favicon: 'https://secure.gravatar.com/blavatar/85cc6a0d4096dfd359ced793bc40c1e1?s=16'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: >-
+  https://caspertk.wordpress.com/2015/04/18/how-we-gather-a-new-report-on-non-religious-community/
+inLanguage: en
 keywords:
   - non-religious
   - kuile
@@ -20,20 +16,27 @@ keywords:
   - report
   - harvard
   - thurston
-description: 'My colleague Angie Thurston from the Harvard Divinity School and I published a report this week about the nature of millennial non-religious communities. Have a read! How We Gather'
-inLanguage: en
+description: >-
+  My colleague Angie Thurston from the Harvard Divinity School and I published a
+  report this week about the nature of millennial non-religious communities.
+  Have a read! How We Gather
+datePublished: '2016-07-14T18:26:55.151Z'
+dateModified: '2016-07-14T18:26:52.386Z'
+author:
+  - name: caspertk
+    url: 'https://caspertk.wordpress.com/author/cterkuile/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'https://caspertk.wordpress.com/2015/04/18/how-we-gather-a-new-report-on-non-religious-community/'
 title: How We Gather - A New Report On Non-Religious Community
-datePublished: '2016-03-20T19:50:32.122Z'
-dateModified: '2016-03-20T19:49:38.201Z'
-starred: true
 sourcePath: _posts/2016-03-20-how-we-gather-a-new-report-on-non-religious-community.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
 authors: []
+publisher:
+  name: Casper ter Kuile
+  domain: caspertk.wordpress.com
+  url: 'http://caspertk.wordpress.com'
+  favicon: 'https://secure.gravatar.com/blavatar/85cc6a0d4096dfd359ced793bc40c1e1?s=16'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
