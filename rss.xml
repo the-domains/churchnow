@@ -4,7 +4,7 @@
         <description><![CDATA[CHURCH NOW]]></description>
         <link>https://thegrid.ai/churchnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 18:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 15:01:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/churchnow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Come for a Jigglypuff, stay for Jesus: Church in the age of Pokémon Go]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Wed, 23 Mar 2016 02:37:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What Great Listeners Actually Do]]></title>
+            <description><![CDATA[<article><h1>What Great Listeners Actually Do</h1><p>Chances are you think you're a good listener. People's appraisal of their listening ability is much like their assessment of their driving skills, in that the great bulk of adults think they're above average.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3683f4f7668e2d23b3e0a2804f19e3fb/noop.jpg?input=https%3A%2F%2Fhbr.org%2Fresources%2Fimages%2Farticle_assets%2F2016%2F07%2Fjul16-14-hbr-laura-schneider-communication-02.jpg"></article>]]></description>
+            <link>https://hbr.org/2016/07/what-great-listeners-actually-do?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=harvardbiz</link>
+            <guid isPermaLink="false">739e34a7-ee12-4657-aaab-48cffff3b2eb</guid>
+            <pubDate>Fri, 15 Jul 2016 15:01:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Faith, Spirituality & the Future]]></title>
             <description><![CDATA[<article><h1>Faith, Spirituality & the Future</h1><p>This documentary looks at how spirituality is evolving in our culture and what it means for religious institutions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d26170b7707b4bfdfc1fbf238e8135e5ebf346de.jpg"></article>]]></description>
             <link>http://www.cbsnews.com/videos/faith-spirituality-the-future/</link>
@@ -68,13 +75,6 @@
             <link>http://www.fallingfruit.org/</link>
             <guid isPermaLink="false">4804ff25-dcd0-4d21-a91a-285e6506df40</guid>
             <pubDate>Thu, 14 Jul 2016 18:26:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bono & Eugene Peterson | THE PSALMS]]></title>
-            <description><![CDATA[<article><h1>Bono & Eugene Peterson | THE PSALMS</h1><p>This short film documents the friendship between Bono (lead musician of the band U2) and Eugene Peterson (author of contemporary-language Bible translation The Message) revolving around their common interest in the Psalms. Based on interviews conducted by Fuller Seminary faculty member David Taylor and produced in association with Fourth Line Films, the film highlights in particular a conversation on the Psalms that took place between Bono, Peterson, and Taylor at Peterson's Montana home.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d34e82d9580f1c6921f3f9757e11e5a04a9fafb.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=-l40S5e90KY</link>
-            <guid isPermaLink="false">b0b20281-e5ab-4882-b0e2-ee0113b04625</guid>
-            <pubDate>Thu, 14 Jul 2016 17:59:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
