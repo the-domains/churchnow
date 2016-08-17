@@ -4,7 +4,7 @@
         <description><![CDATA[CHURCH NOW]]></description>
         <link>https://thegrid.ai/churchnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 20:52:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 12:52:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/churchnow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Come for a Jigglypuff, stay for Jesus: Church in the age of Pokémon Go]]></title>
@@ -42,8 +42,15 @@
             <pubDate>Wed, 23 Mar 2016 02:37:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Future of the Church an Interview with Tom Sine]]></title>
+            <description><![CDATA[<article><h1>The Future of the Church an Interview with Tom Sine</h1><p>What do you believe the future of the church is if we do not start living like we give a damn? **Live Like You Give a Damn: Join the Changemaking Celebration now available for pre-order here...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334e6f26a27868da2d99258bfceb234c0b2f1842.jpg"></article>]]></description>
+            <link>http://www.newchangemakers.com/the-future-of-the-church-and-interview-with-tom-sine/</link>
+            <guid isPermaLink="false">5077c537-8da1-44c6-9a20-c3fbac8871ad</guid>
+            <pubDate>Wed, 17 Aug 2016 12:52:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Churches using Pokémon Go to get millenials in pews - The Boston Globe]]></title>
-            <description><![CDATA[<article><h1>Churches using Pokémon Go to get millenials in pews - The Boston Globe</h1><p>For churches around the state, the sudden obsession over Pokémon Go has been a blessing in disguise. The mobile phenomenon, which rolled out last week and immediately took hold, has millennials flocking to church buildings as part of the gameplay - and congregations are trying to capitalize on the opportunity to capture their attention as they linger nearby.</p><img src="http://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2016/07/13/BostonGlobe.com/Metro/Images/13613693_1245638872115008_2003818206002925922_o-1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Churches using Pokémon Go to get millenials in pews - The Boston Globe</h1><p>For churches around the state, the sudden obsession over Pokémon Go has been a blessing in disguise. The mobile phenomenon, which rolled out last week and immediately took hold, has millennials flocking to church buildings as part of the gameplay - and congregations are trying to capitalize on the opportunity to capture their attention as they linger nearby.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9ab41223c65f25ad630901b14b093f0c/noop.jpg?input=http%3A%2F%2Fwww.bostonglobe.com%2Frf%2Fimage_585w%2FBoston%2F2011-2020%2F2016%2F07%2F13%2FBostonGlobe.com%2FMetro%2FImages%2F13613693_1245638872115008_2003818206002925922_o-1.jpg"></article>]]></description>
             <link>http://www.bostonglobe.com/metro/2016/07/13/churches-using-pokemon-get-millenials-pews/GqrTSRGjKaHSUmYGcjafIO/story.html?event=event25</link>
             <guid isPermaLink="false">75d8558a-71c1-4a25-9d85-1709729ed8c8</guid>
             <pubDate>Wed, 27 Jul 2016 20:51:48 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.cbsnews.com/videos/faith-spirituality-the-future/</link>
             <guid isPermaLink="false">d0c0613c-b083-4597-8fe0-fba6f4f5f3f6</guid>
             <pubDate>Thu, 14 Jul 2016 18:27:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Something More]]></title>
-            <description><![CDATA[<article><h1>Something More</h1><p>Read more at the Fetzer Institute.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63e9081d30a7bb956ee93dc48558f3553737369c.png"></article>]]></description>
-            <link>http://www.fetzer.org/resources/something-more</link>
-            <guid isPermaLink="false">f12c01a1-12cb-497e-85e5-50702e6f3681</guid>
-            <pubDate>Thu, 14 Jul 2016 18:27:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
