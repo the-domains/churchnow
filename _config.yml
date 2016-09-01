@@ -1,30 +1,42 @@
-typography_spectrum: 0.59463
+description: the future of church now showing
+title: CHURCH NOW
+cta:
+  version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.9148936
+favicon: null
+name: CHURCH NOW
+purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0
+  saturation: 0.375
   brandColors:
     - '#071321'
     - '#959aae'
     - '#c6cad6'
     - '#862721'
     - '#22768a'
-  brandStrength: 0
   lightness: 0.7526584770530462
-  saturation: 0.375
   rhythmicContrast: 0.5
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.67505
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: CHURCH NOW
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: CHURCH NOW
-description: the future of church now showing
-purpose: []
+typography_spectrum: 0.59463
